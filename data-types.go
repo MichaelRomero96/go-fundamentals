@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func DataTypes() {
 	var revenue float64
 	var expenses float64
 	var taxRate float64
